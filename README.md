@@ -1,4 +1,4 @@
-# Android-Mining
+# Android-mobile-Mining
 Quick installation of mining on Android Phones
 
 ## No support
